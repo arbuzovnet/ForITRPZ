@@ -10,6 +10,13 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Random random = new Random();
+            int temp = random.Next(0, 2);
+            if (temp == 0)
+                Console.WriteLine("temp == 0");
+            else
+                Console.WriteLine("temp != 0");
+            Console.ReadKey();
         }
     }
 }

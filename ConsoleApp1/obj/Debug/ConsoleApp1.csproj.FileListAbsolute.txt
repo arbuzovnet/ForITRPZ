@@ -1,0 +1,7 @@
+D:\University\2 kurs\2-1\ИТРПЗ\Индивидуальное задание\Git\ForITRPZ\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\University\2 kurs\2-1\ИТРПЗ\Индивидуальное задание\Git\ForITRPZ\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\University\2 kurs\2-1\ИТРПЗ\Индивидуальное задание\Git\ForITRPZ\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\University\2 kurs\2-1\ИТРПЗ\Индивидуальное задание\Git\ForITRPZ\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\University\2 kurs\2-1\ИТРПЗ\Индивидуальное задание\Git\ForITRPZ\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\University\2 kurs\2-1\ИТРПЗ\Индивидуальное задание\Git\ForITRPZ\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\University\2 kurs\2-1\ИТРПЗ\Индивидуальное задание\Git\ForITRPZ\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
